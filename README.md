@@ -63,7 +63,11 @@ print(f"Predicted value: {pre}")
 ## Output:
 ![alt text](<Screenshot 2024-04-06 225125.png>)
 
-![alt text](<Screenshot 2024-04-06 225200.png>)
+![alt text](<Screenshot 2024-04-06 225429.png>)
+
+![alt text](<Screenshot 2024-04-06 225441.png>)
+
+![alt text](<Screenshot 2024-04-06 225510.png>)
 
 ![alt text](<Screenshot 2024-04-06 225224.png>)
 
